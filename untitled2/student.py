@@ -1,0 +1,2 @@
+grades ={}
+print(type(grades))
